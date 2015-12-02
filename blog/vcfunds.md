@@ -1,0 +1,12 @@
+### Venture Capital Funds
+Of course it doesn't make sense to invest only in one startup with a high risk of failure. This is the reason why there are venture capital funds. Usually a venture capital firm raises money from multiple institutional investors for a fund and then invests in multiple startups with this money. The most common model is the 220. The management company takes 2% management fee per year, and 20 percent of the profit, the “carry”, at the end of the fund which typically lasts 10 years. They are expected to perform at a rate of 4 to 5 times net of the invested money.
+
+Ok, let's pause for a moment, what does this timeframe mean for the venture firm? Within 10 years, they have to go through the process of getting stakes in valuable companies, hold them for some years and sell off their shares before the 10 years are over, so they can return the money to the investors.
+These funds can have different sizes, ranging from 20 million to the lower billions. Typically a fund is invested in around 20 companies with different but similar investments.
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/7/79/Venture_Capital_Fund_Diagram.png "Venture Capital fund 220 structure")
+By Urbanrenewal (Own work) [Public domain], via Wikimedia Commons
+
+#### Example
+We opened a 220 venture capital fund and raised 100 million with a 10 year runtime. A return of 5 times is expected. How much money do we have to generate in order to satisfy our investors?
+2% are 2 million per year for ten years are 20 million. Additionally, 20% "carry" of the prospected 500 million go to the managers at the fund's end. That's  are a hundred million, but we have to return 5 times net to our investors, so we need to earn more money. In total we have to earn 620 million. Half of all startups of the portfolio in a fund usually fail, so a company now has to make 12x to to be profitable for the fund. Or at least it must have the potential to make it. So if I, as a manager, invest 5 million in exchange for 30% shares (I am making numbers up now), then it has to be able to return me 60 million after a maximum of 10 years, the faster the better. If a company grows that fast, it needs money, a lot. That means another investor will come on board and thus dilute my shares, so I will end up with around 10-15% of the company. Let's assume 10% for the sake of the argument. So I invested 5 million and I expect 60 million return., Iif I own 10% at the time of sale, the valuation of the company should be around 600 million.
